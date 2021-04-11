@@ -1,0 +1,30 @@
+/* .stories{
+    max-width: 500px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin: auto;
+    display: flex;
+    margin-top: 45px;
+    margin-bottom: 45px;
+
+}
+  */
+
+.stories_h{
+    /* display: flex; */
+    
+   padding: 10px;
+}
+
+
+.story_avatar{
+    border: 2px solid #cd486b;
+    
+
+}
+.story_username{
+    font-size: 11px;
+    white-space: nowrap;
+ 
+    
+}  

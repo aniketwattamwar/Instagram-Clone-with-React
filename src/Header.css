@@ -1,0 +1,50 @@
+.header{
+    padding: 17px;
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+    object-fit: contain;
+    display: flex;
+    align-items: center;
+  }
+.app_icons{
+    display: flex;
+    padding-right: 10px; 
+    align-items: center;
+    
+}
+  
+.instagram_name{
+    width: 10%;
+    height: 10%;
+    
+  }
+  
+.header_profile{
+    display: flex;
+    margin-left: 10px;
+  }
+
+.search_bar{
+    display: flex;
+    flex: 1;
+    margin:5px;
+    justify-content: space-evenly;
+    
+}
+.search_text{
+  padding: 5px;
+  background-color: #fafafa;
+  border: 1px solid lightgrey ;
+  border-radius: .75%;
+}
+ 
+.m_icon{
+  color: black;
+  margin-right: 20px !important;
+   
+}
+
+
+
+
+

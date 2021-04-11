@@ -1,0 +1,9 @@
+.inbox{
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin-bottom: 45px;
+    border-radius: 0.5%;
+}
+

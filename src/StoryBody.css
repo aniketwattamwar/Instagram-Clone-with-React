@@ -1,0 +1,11 @@
+.story_body{
+    max-width: 600px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin: auto;
+    display: flex;
+    
+    margin-top: 45px;
+    margin-bottom: 45px;
+    border-radius: 0.5%;
+}
